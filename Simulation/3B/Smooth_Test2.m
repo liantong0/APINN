@@ -1,4 +1,3 @@
-% Reproduce_Smooth_test2_from_saved_state.m
 clear; clc; close all;
 setup_paths();
 %% Section
